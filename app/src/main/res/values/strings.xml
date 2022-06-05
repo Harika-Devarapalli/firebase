@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exp8</string>
+    <string-array name="values">
+        <item>All</item>
+        <item>Product_id</item>
+        <item>Product_Name</item>
+        <item>Type</item>
+        <item>Vendor</item>
+        <item>Available_Items</item>
+    </string-array>
+</resources>
